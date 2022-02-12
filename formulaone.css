@@ -14,6 +14,19 @@ body{
 	padding-bottom: 80px;
 }
 
+/*voltar a trás*/
+a .goback{
+	color: black;
+}
+
+.gobackdiv{
+	padding-left: 421px;
+	
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+}
+
 /*tentativa de por as margens para tudo
 .divmargens{
 	margin-left: 60px;
@@ -100,7 +113,7 @@ a:hover{
 	font-family: 'Poppins', sans-serif;
 	font-weight: 200;
 	font-size: 30px;
-	padding-left: 60px;
+	padding-left: 30px;
 	margin: auto;
 	padding-top: 19px;
 }
@@ -115,7 +128,19 @@ a:hover{
 	padding-top: 7px;
 }
 
+/*History in Formula One*/
+.tituloalafahistory{
+	padding-left: 420px;
+	padding-top: 17px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+	font-size: 40px;
+	padding-bottom: 2px;
+
+}
+
 /*retangulo + imagens*/
+
 
 .retangulofotos{
 	background-color: #2E2323;
@@ -125,14 +150,93 @@ a:hover{
 	padding-left: 30px;
 	padding-right: 30px;
 	padding-top: 30px;
-	padding-bottom: 500px;
+	padding-bottom: 34px;
 	float: left;
 }
 
-.flotetexto{
+.imagensespaços{
+	padding-bottom: 30px;
+}
+
+.texto_ferrari{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	padding-left: 420px;
+	padding-right: 49px;
+	text-align: justify;
+	padding-top: 1px;
+}
+
+
+/*terceira página*/
+
+
+.retangulodecordois{
+	background-color: #FF0000;
+	margin: 30px;
+	max-width: 1200px;
+	padding: 80px;
+	padding-top: 1px;
+	/*margin: auto;*/
+}
+
+.tituloferrari{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	padding-left: 30px;
+	margin: auto;
+	padding-top: 19px;
+}
+
+.flotesretangulodois{
 	float: left;
 }
 
-.imagens{
-	padding-top: 30px;
+.logoferrari_{
+	margin-left: 20px;
+	margin: auto;
+	padding-top: 5px;
+}
+
+/*quadrado imagens*/
+
+.gobackdivdois{
+	padding-left: 421px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+	padding-top: 424px;
+}
+
+.retangulofrases{
+	background-color: #FF0000;
+	/*margin: 30px;*/
+	max-width: 1200px;
+	padding: 80px;
+	/*padding-top: 96px*/
+	margin-left: 420px;
+	margin-right: 48px;
+}
+
+.arranjoaspas{
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 200;
+	font-size: 23px;
+	padding-left: 30px;
+	margin: auto;
+	padding-top: 19px;
+}
+
+.nomelink {
+	color: white;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 200;
+	font-size: 25px;
+	padding-left: 30px;
+	margin: auto;
+	padding-top: 19px;
 }
